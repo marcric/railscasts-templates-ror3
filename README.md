@@ -1,16 +1,18 @@
 # Railscasts Projects Templates
 
-### I'm a big fan of Rayan Bates's work
+### I'm a big fan of Ryan Bates' work
 
-I follow Railscasts episodes as much as I can, and some times go back to the past
-trying a "remix" making the same with a more recent technology like Rails 3 for instance.
+I follow Railscasts episodes as much as I can, and some times go back to the past trying a "remix".
 
-So, following Ryan's instruction and gibing back to open source, this is an effort
-to get all of the projects templates being updated to Rails 3.0.3
+Making the same episode with a more recent technology like Rails 3 for instance.
+
+So, following Ryan's instruction and giving back to open source...
+
+This is an effort to get all of the projects templates being updated to Rails 3.0.3
 
 The original work comes from here:
 
-_[railscasts-episodes/templates][rcet]_
+_###[railscasts-episodes/templates][rcet]###_
 
 That is it.
 
