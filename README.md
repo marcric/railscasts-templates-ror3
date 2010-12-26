@@ -16,7 +16,7 @@ _[railscasts-episodes/templates][rcet]_
 
 That is it.
 
-_**[Marcos Ricardo][mr]**_
+_**[MarcRic][mr]**_
 
 [rcet]: https://github.com/ryanb/railscasts-episodes/tree/master/templates "ryanb/railscasts-episodes"
 [mr]: http://marcric.com
