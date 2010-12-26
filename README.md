@@ -12,7 +12,7 @@ This is an effort to get all of the projects templates being updated to Rails 3.
 
 The original work comes from here:
 
-_###[railscasts-episodes/templates][rcet]###_
+_[railscasts-episodes/templates][rcet]_
 
 That is it.
 
