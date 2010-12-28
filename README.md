@@ -34,7 +34,7 @@ That is it. _**[MarcRic][mr]**_
 
 **For each of the 5 first projects we will provide three entries (stages)**
 
-* **Stage1** - Just the scaffold with basic relation in the Models
+* **Stage1** - Just the scaffold with basic relationship in Models and a starting page in routes.rb
 * **Stage2** - An intermediate one with seeds to populate the database
 * **Stage3** - The current stage of that project up to the last appearance in **[Railscasts][rc]**
 
