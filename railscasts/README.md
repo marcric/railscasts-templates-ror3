@@ -2,14 +2,14 @@
 
 ## First Episode appearance:
 
-**[018 - Looping Through Flash][ep018]**
+* [018 - Looping Through Flash][ep018]
 
 ## Further appearances:
 
-*[019 - Where Administration Goes][ep019]
-*[020 - Restricting Access][ep020]
-*[021 - Super Simple Authentication][ep021]
-*[065 - Stopping Spam with Akismet][ep065]
+* [019 - Where Administration Goes][ep019]
+* [020 - Restricting Access][ep020]
+* [021 - Super Simple Authentication][ep021]
+* [065 - Stopping Spam with Akismet][ep065]
 
 ---
 

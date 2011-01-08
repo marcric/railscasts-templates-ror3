@@ -2,13 +2,13 @@
 
 ## First Episode appearance:
 
-**[070 - Custom Routes][ep070]** (using store name)
+* [070 - Custom Routes][ep070] (using store name)
 
 ## Further appearances:
 
-*[087 - Generating RSS Feeds][ep087]*
-*[094 - ActiveResource Basics][ep094] - also uses the store Project
-*[099 - Complex Partials][ep099]
+* [087 - Generating RSS Feeds][ep087]
+* [094 - ActiveResource Basics][ep094] - also uses the store Project
+* [099 - Complex Partials][ep099]
 
 ---
 

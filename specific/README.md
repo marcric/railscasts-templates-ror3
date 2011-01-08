@@ -2,18 +2,18 @@
 
 ## First Episode appearance:
 
-**[036 - Subversion on Rails][ep036]** - blab Project
+* [036 - Subversion on Rails][ep036] - blab Project
 
 ## Further appearances:
 
-*[049 - Reading the API][ep049]
-*[050 - Contributing to Rails][ep050]
-*[058 - How to Make a Generator][ep058]
-*[067 - restful\_authentication][ep067] - authenticator Project
-*[068 - OpenID Authentication][ep068] - authenticator Project
-*[071 - Testing Controllers with RSpec][ep071] - spec\_examples Project
-*[096 - Git on Rails][ep096] - empty todo Project
-*[097 - Analyzing the Production Log][ep097]
+* [049 - Reading the API][ep049]
+* [050 - Contributing to Rails][ep050]
+* [058 - How to Make a Generator][ep058]
+* [067 - restful\_authentication][ep067] - authenticator Project
+* [068 - OpenID Authentication][ep068] - authenticator Project
+* [071 - Testing Controllers with RSpec][ep071] - spec\_examples Project
+* [096 - Git on Rails][ep096] - empty todo Project
+* [097 - Analyzing the Production Log][ep097]
 
 ---
 
