@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  project_id: 1
+  complete: false
+  priority: 1
+  due_at: 2010-12-28 17:02:47
+
+two:
+  name: MyString
+  project_id: 1
+  complete: false
+  priority: 1
+  due_at: 2010-12-28 17:02:47
